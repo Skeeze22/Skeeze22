@@ -5,13 +5,15 @@
 
 - 🔭 I’m currently working on [large projects at Arffis, details will come later](https://arffis.com/)
 
-- 🌱 I’m currently learning **SwiftUI, and developing several hard and soft skills**
-
-- Some of my projects are presented [here](https://apps.apple.com/ru/developer/egor-griva/id1526674012)
-
 - 🤝 Founded startup Arffis, [details coming soon](https://arffis.com/)
 
-- 📝 I regularly write articles on [https://www.instagram.com/_e_griva/](https://www.instagram.com/_e_griva/)
+- 🛠 Some of my projects are presented [here](https://apps.apple.com/ru/developer/egor-griva/id1526674012)
+
+- 🤷🏼‍♂️ There are more than 15 projects created,  **but for some reason I cannot demonstrate them**
+
+- 🌱 I’m currently learning **SwiftUI, and developing several hard and soft skills**
+
+- 📝 I regularly write posts on [https://www.instagram.com/_e_griva/](https://www.instagram.com/_e_griva/)
 
 - 💬 Ask me about **Swift, SwiftUI, iOS and macOS**
 
@@ -21,10 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/егор-грива-ba20bb1a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="егор-грива-ba20bb1a4" height="30" width="40" /></a>
-<a href="https://fb.com/grivaegor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="grivaegor" height="30" width="40" /></a>
-<a href="https://instagram.com/_e_griva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="_e_griva" height="30" width="40" /></a>
-<a href="https://discord.gg/Skeeze#1383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="Skeeze#1383" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/егор-грива-ba20bb1a4" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="егор-грива-ba20bb1a4" height="30" width="40" /></a>
+<a href="https://fb.com/grivaegor" target="blank"><img align="center" src="https://simpleicons.org/icons/facebook.svg" alt="grivaegor" height="30" width="40" /></a>
+<a href="https://instagram.com/_e_griva" target="blank"><img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="_e_griva" height="30" width="40" /></a>
+<a href="https://discord.gg/Skeeze#1383" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="Skeeze#1383" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
