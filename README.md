@@ -9,7 +9,7 @@
 
 - 🛠 Some of my projects are presented [here](https://apps.apple.com/ru/developer/egor-griva/id1526674012)
 
-- 🤷🏼‍♂️ There are more than 15 projects created,  **but for some reason I cannot demonstrate them**
+- 🤷🏼‍♂️ Created over 15 commercial projects,  **but for some reason I cannot demonstrate them**
 
 - 🌱 I’m currently learning **SwiftUI, and developing several hard and soft skills**
 
