@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **griva@arffis.com**
 
-- 👨‍💻 My experience is **1.5 years of Python development, 1.5 years of iOS development and 3.5 years in business creation and management.**
+- 👨‍💻 My experience is **1.5 years of Python development, 2 years of iOS development and 4 years in business creation and management.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
