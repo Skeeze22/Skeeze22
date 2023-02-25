@@ -3,23 +3,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skeeze22&label=Profile%20views&color=0e75b6&style=flat" alt="skeeze22" /> </p>
 
+- 👨‍💻 My experience is **3.5 years of iOS development(UIKit/SwiftUI) and 5 years in business creation and management.**
+
 - 🔭 I’m currently working on [large projects at Arffis, details will come later](https://arffis.com/)
 
 - 🤝 Founded startup Arffis, [details coming soon](https://arffis.com/)
 
 - 🛠 Some of my projects are presented [here](https://apps.apple.com/ru/developer/egor-griva/id1526674012)
 
-- 🤷🏼‍♂️ Created over 15 commercial projects,  **but for some reason I cannot demonstrate them**
-
-- 🌱 I’m currently learning **ML**
+- 🤷🏼‍♂️ Created over 30 commercial projects,  **but for some reason I cannot demonstrate them**
 
 - 📝 I regularly write posts on [https://www.instagram.com/_e_griva/](https://www.instagram.com/_e_griva/)
 
-- 💬 Ask me about **Swift, SwiftUI, iOS and macOS**
+- 💬 Ask me about **Swift, SwiftUI, iOS, watchOS and macOS**
 
 - 📫 How to reach me **griva@arffis.com**
 
-- 👨‍💻 My experience is **1.5 years of Python development, 2 years of iOS development and 4 years in business creation and management.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
